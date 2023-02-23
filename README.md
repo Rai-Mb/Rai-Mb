@@ -40,5 +40,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Rai-Mb}/count.svg" /></p> 
 <br>
 </div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A00909&height=120&section=footer"/>
